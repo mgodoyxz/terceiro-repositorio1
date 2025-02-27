@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Shafarik&display=swap');
+
+:root {
+    --cor-principal:  #ff69b4;
+    --cor1:  #554149;
+    --cor2:  #bca5ae;
+    --cor3:  #00bbaa;
+    --cor4:  #008376;
+    --preto: #000000;
+    --branco: #ffffff;
+}
+
+body {
+    font-size: 1rem;
+    font-family: 'Shafarik'; /*° Shafarik*/
+}
